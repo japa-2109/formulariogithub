@@ -9,3 +9,7 @@ body {
     padding: 50px;
     display: flex;
 }
+
+h1 {
+   align-items: center;
+}
