@@ -13,3 +13,8 @@ body {
 h1 {
    align-items: center;
 }
+
+label {
+    margin-top: 10px;
+    display: block;
+}
