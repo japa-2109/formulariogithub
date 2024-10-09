@@ -28,6 +28,14 @@ select {
     border-radius: 4px;
 }
 
+input[type="number"] {
+    padding: 8px;
+    margin-top: 5px;
+    border: 1px solid #000000;
+    border-radius: 4px;
+}
+
+
 .sexo {
     margin: 10px 0;
 }
