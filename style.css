@@ -7,7 +7,6 @@ body {
     background-color: #f4f4f4;
     margin: 0;
     padding: 50px;
-    display: flex;
 }
 
 h1 {
@@ -20,7 +19,6 @@ label {
 }
 
 input[type="text"],
-input[type="number"],
 textarea,
 select {
     width: 100%;
@@ -46,4 +44,5 @@ button {
 
 button:hover {
     background-color: #0056b3;
+    
 }
